@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1703811671 source:m:\projects\socialmediaactivitytracker\main.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	<unistd.h>
+	<chrono>
+	"socialmediasystem.h"
+
+1703805175 source:m:\projects\socialmediaactivitytracker\user.cpp
+	"user.h"
+
+1703805449 m:\projects\socialmediaactivitytracker\user.h
+	<iostream>
+	<stdexcept>
+	<limits.h>
+	"Activity.h"
+	"queue.h"
+
+1703108965 m:\projects\socialmediaactivitytracker\queue.h
+	"linkedlist.h"
+	<bits/stdc++.h>
+
+1703709268 m:\projects\socialmediaactivitytracker\linkedlist.h
+	<bits/stdc++.h>
+
+1703782749 source:m:\projects\socialmediaactivitytracker\activity.cpp
+	"activity.h"
+
+1703782751 m:\projects\socialmediaactivitytracker\activity.h
+	<iostream>
+	<stdexcept>
+	<limits.h>
+
+1703784701 source:m:\projects\socialmediaactivitytracker\avl.cpp
+
+1703810358 m:\projects\socialmediaactivitytracker\avl.h
+	"Activity.h"
+	<bits/stdc++.h>
+
+1703602310 m:\projects\socialmediaactivitytracker\node.h
+	<bits/stdc++.h>
+
+1703602278 source:m:\projects\socialmediaactivitytracker\node.cpp
+
+1703803299 source:m:\projects\socialmediaactivitytracker\socialmediasystem.cpp
+	"socialmediasystem.h"
+
+1703803299 m:\projects\socialmediaactivitytracker\socialmediasystem.h
+	<bits/stdc++.h>
+	<chrono>
+	"user.h"
+	"AVL.h"
+
